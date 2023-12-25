@@ -86,28 +86,36 @@ Movie durations vary widely, with a potential trend indicating [relationship bet
 
 C. Language Analysis
 
-[List of Most Common Languages] are widely used in movies.
+*English,French,Spanish are widely used in movies.
 
 [Insights based on Descriptive Statistics for each Language].
 
 D. Director Analysis
 
-[Top Directors] consistently achieve high IMDb scores.
+Cary bell, Sadyk Sher-Niyaz, Charles Chaplin, Damien Chazella consistently achieve high IMDb scores.
 
 Directors play a crucial role in influencing movie success.
+* Steven Spielberg
+* Tim Burton
+* micheal bay
+* Clint Eastwood
+* Robert Zemeckis
+  
 
 E. Budget Analysis
 Positive correlation found between budgets and gross earnings.
 
-[List of High-Profit Movies] identified.
+List of High-Profit Movies identified.
+*War of the Worlds
+*War Horse
+*The Terminal
+*The Lost world: Jurassic Park
+*The color Purple
 
 Recommendations
 Based on the analysis, the following recommendations are suggested:
 
-[Recommendations for Movie Genres]
-[Suggestions for Optimal Movie Durations]
-[Guidance for Language Selection in Movies]
-[Advice for Collaborating with Top Directors]
-[Strategies for Budget Allocation]
+Crime,Action,Comedy,Drama,Adventure,Drama.
+
 Conclusion
 This analysis provides valuable insights into the factors contributing to movie success on IMDb. The actionable recommendations aim to guide stakeholders in making informed decisions for future movie projects.
